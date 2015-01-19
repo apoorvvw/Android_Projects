@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Connections</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="provide_service">Provide Service</string>
+    <string name="request_service">Recieve Service</string>
+    <string name="title_activity_provide">ProvideActivity</string>
+    <string name="title_activity_request">RequestActivity</string>
+
+    <string-array name="planets_array">
+        <item>drive</item>
+        <item>share</item>
+        <item>sell</item>
+    </string-array>
+
+</resources>

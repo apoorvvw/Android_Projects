@@ -1,0 +1,121 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.boilers.mhacks.connections.ProvideActivity"
+    android:background="#ff323232"
+    android:orientation="vertical"
+    android:id="@+id/linear1"
+    android:paddingEnd="@dimen/abc_action_bar_default_padding_material">
+
+
+    <!--<ListView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:id="@+id/listview_provide"-->
+        <!--android:layout_gravity="center_horizontal|top"-->
+        <!--/>-->
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner"
+        android:layout_gravity="center_horizontal"
+        style="@style/Base.TextAppearance.Widget.AppCompat.Toolbar.Title"
+        android:layout_marginBottom="20dp"
+        android:spinnerMode="dropdown"
+        android:layout_marginTop="15dp"
+        >
+    </Spinner>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Stuff"
+            android:id="@+id/textView"
+            android:layout_weight="0.60"
+            style="@style/Base.TextAppearance.AppCompat.Large"
+            android:textSize="25dp"
+            android:textColor="#fafafa" />
+
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText"
+            android:hint="Text Here"
+            android:textAlignment="center"
+            android:textColorHighlight="#00ccd2"
+            android:layout_weight="0.40"
+            android:textColor="#fafafa"
+            android:textIsSelectable="false" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="20dp"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/textView3"
+            android:layout_weight="0.60"
+            android:textAlignment="center"
+            style="@style/Base.TextAppearance.AppCompat.Large"
+            android:textSize="25dp"
+            android:textColorHighlight="#00ccd2"
+            android:textColor="#fafafa" />
+
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText2"
+            android:textColorHighlight="#00ccd2"
+            android:hint="Text Here"
+            android:layout_weight="0.40"
+            android:textColor="#fafafa" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        >
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageButton"
+
+            android:clickable="true"
+            android:background="#32fafafa"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="49dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            style="@style/Base.TextAppearance.AppCompat.Button"
+            android:theme="@style/RtlOverlay.Widget.AppCompat.ActionButton.CloseMode"
+            android:src="@drawable/ic_launcher"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"/>
+    </LinearLayout>
+
+</LinearLayout>
