@@ -1,0 +1,17 @@
+
+public class MyJob {
+
+	void myWork(int...x)
+	{
+	System.out.println("Work 1");
+	}
+void myWork(int x,int y)
+	{
+	System.out.println("Work 2");
+	}
+public static void main(String args[])
+	{
+	MyJob my=new MyJob();
+	my.myWork(2,3);
+	}
+}

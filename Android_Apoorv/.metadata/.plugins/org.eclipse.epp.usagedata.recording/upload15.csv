@@ -1,0 +1,176 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1407060736962
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407060741834
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407060741868
+activated,view,com.android.ide.eclipse.ddms,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.ddms.views.LogCatView",1407060743425
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407060745057
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407060747446
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1407060747472
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1407060751806
+activated,view,com.android.ide.eclipse.ddms,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.ddms.views.LogCatView",1407060753901
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407060780624
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407060780894
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1407060784154
+activated,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1407060790954
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1407060799805
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1407060802805
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1407060808083
+activated,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1407060816051
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1407060829717
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1407060833884
+activated,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1407060835482
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1407060838583
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1407060839769
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1407060845442
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1407060846330
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407060846532
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407060848377
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1407060850311
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1407060858135
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407060861344
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407060862819
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.project.cleanAction",1407060862831
+activated,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1407060959789
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1407060970479
+activated,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1407060995896
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1407060995897
+activated,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.CommonXmlEditor",1407060996197
+closed,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.CommonXmlEditor",1407060996422
+activated,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1407060996513
+error,log,,,"Internal Error",1407060997236
+activated,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.CommonXmlEditor",1407060997643
+closed,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1407060997643
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1407060998596
+closed,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.CommonXmlEditor",1407060998596
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407061003340
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407061064050
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407061067142
+started,bundle,org.eclipse.ant.ui,3.5.101.v20120110-1739,"org.eclipse.ant.ui",1407061086367
+started,bundle,org.eclipse.emf.ecore,2.7.0.v20120127-1122,"org.eclipse.emf.ecore",1407061087086
+started,bundle,org.eclipse.wst.common.emf,1.2.100.v201101101900,"org.eclipse.wst.common.emf",1407061087117
+started,bundle,org.eclipse.jem.util,2.1.100.v201103021400,"org.eclipse.jem.util",1407061087174
+started,bundle,org.eclipse.emf.ecore.xmi,2.7.0.v20120127-1122,"org.eclipse.emf.ecore.xmi",1407061087200
+started,bundle,org.eclipse.wst.common.emfworkbench.integration,1.2.101.v201107140600,"org.eclipse.wst.common.emfworkbench.integration",1407061087206
+started,bundle,org.eclipse.wst.common.core,1.2.0.v200908252030,"org.eclipse.wst.common.core",1407061087433
+started,bundle,org.eclipse.wst.common.modulecore,1.2.103.v201201190400,"org.eclipse.wst.common.modulecore",1407061087440
+started,bundle,org.eclipse.wst.dtd.core,1.1.501.v201107252021,"org.eclipse.wst.dtd.core",1407061087566
+error,log,,,"Failed to load properties file for project 'sendsmsdemo'",1407061088142
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407061092270
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1407061092794
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1407061093007
+opened,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.CommonXmlEditor",1407061093961
+activated,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.CommonXmlEditor",1407061094302
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1407061101265
+closed,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.CommonXmlEditor",1407061101265
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1407061102587
+opened,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1407061104106
+activated,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1407061105047
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1407061106368
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1407061106908
+error,log,,,"Malformed manifest",1407061108732
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1407061108768
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1407061110188
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407061111148
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061116978
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407061122176
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1407061123131
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1407061123627
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1407061124789
+error,log,,,"Parser exception for /sendsmsdemo/AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061124912
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1407061129808
+opened,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.CommonXmlEditor",1407061134081
+activated,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.CommonXmlEditor",1407061134268
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407061135082
+error,log,,,"Failed to update a TargetChangeListener.",1407061139267
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061144699
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407061144704
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1407061144746
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061144757
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061144830
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061144841
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061144850
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061144858
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061144871
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061144888
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061144897
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061144904
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061144911
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061144918
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061144925
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061144931
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061145005
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061145014
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061145023
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061145029
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061145036
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061145044
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061145069
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061145075
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061145116
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061145122
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061145128
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061145134
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061145140
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061145231
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061145263
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061145270
+error,log,,,"Parser exception for /sendsmsdemo/AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061149740
+error,log,,,"Parser exception for /sendsmsdemo/AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061150270
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061150562
+error,log,,,"fileChanged: failed to find manifest package for project sendsmsdemo",1407061150567
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1407061152082
+activated,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.CommonXmlEditor",1407061154997
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1407061156236
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1407061157013
+error,log,,,"Parser exception for /sendsmsdemo/AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061157146
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1407061158057
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1407061167217
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1407061168438
+error,log,,,"Parser exception for /sendsmsdemo/AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061168559
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1407061171118
+opened,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.CommonXmlEditor",1407061172817
+activated,editor,com.android.ide.eclipse.adt,22.6.3.v201404151837-1123206,"com.android.ide.eclipse.editors.CommonXmlEditor",1407061172957
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1407061173731
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.paste",1407061174143
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407061176542
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1407061177647
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178345
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1407061178385
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178399
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178416
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178430
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178441
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178450
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178468
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178486
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178494
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178504
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178515
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178522
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178530
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178538
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178594
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178602
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178612
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178622
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178631
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178638
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178647
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178692
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178743
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178750
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178757
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178763
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178769
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178775
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178782
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178788
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178800
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178806
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178812
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178820
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178846
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178913
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178935
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061178994
+error,log,,,"Parser exception for C:\\Users\\Apoorv\\Desktop\\Android\\Android_Apoorv\\sendsmsdemo\\AndroidManifest.xml: The processing instruction target matching ""[xX][mM][lL]"" is not allowed.",1407061179000

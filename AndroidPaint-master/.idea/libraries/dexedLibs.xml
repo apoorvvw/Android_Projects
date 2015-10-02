@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AndroidPaint-master/bin/dexedLibs/ambilwarna-5fe7cc6a7e8f9bd48102e1a5f134570e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AndroidPaint-master/bin/dexedLibs/annotations-7f92198e9f5a95d8aa0052e9f9eb97dc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
